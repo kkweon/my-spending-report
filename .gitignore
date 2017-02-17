@@ -1,4 +1,5 @@
 .DS_Store/
+data/
 ###IPythonNotebook###
 # Temporary data
 .ipynb_checkpoints/
